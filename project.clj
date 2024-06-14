@@ -4,7 +4,7 @@
   :license { :name "MIT License" :url "https://opensource.org/licenses/MIT" }
   :dependencies
   [
-    [org.clojars.taqmuraz/nine-clj "0.1"]
+    [org.clojars.taqmuraz/nine-clj "0.1.1-SNAPSHOT"]
     [org.clojure/clojure "1.10.0"]
   ]
   :main ^:skip-aot nine-clj-example.core
